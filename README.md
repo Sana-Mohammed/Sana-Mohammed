@@ -2,8 +2,10 @@
 I am a Web Backend Developer
 - 🔭 I’m currently working on Odoo Framework
 - 🌱 I’m currently learning Web frontend technology
+## 📫 How to reach me 
+<a href="mailto:YourEmail@gmail.com">![sanamohammed71@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<a href="<LinkedInURL>">![[LinkedIn](https://www.linkedin.com/in/sana-basalem-2966772aa/)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <!--
 I am a Web Backend Developer
 Here are some ideas to get you started:
