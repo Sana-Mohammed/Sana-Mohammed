@@ -11,7 +11,9 @@ I am a Web Backend Developer
   <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">&nbsp;
   <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">&nbsp;
   <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">&nbsp;
-    <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Odoo_logo_rgb.svg/1200px-Odoo_logo_rgb.svg.png?20151230141100">&nbsp;
+   <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Odoo_logo_rgb.svg/1200px-Odoo_logo_rgb.svg.png?20151230141100">&nbsp;
+  <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg">&nbsp;
+
 
 </div>
 
