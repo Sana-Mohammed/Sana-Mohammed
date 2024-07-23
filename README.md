@@ -4,7 +4,7 @@ I am a Web Backend Developer
 - 🌱 I’m currently learning Web frontend technology
 ## 📫 How to reach me 
 <a href="mailto:sanamohammed71@gmail.com">![YourEmail@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-<a href="<[LinLkedInUR](https://www.linkedin.com/in/sana-basalem-2966772aa/)>">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/sana-basalem-2966772aa/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <!--
 I am a Web Backend Developer
 Here are some ideas to get you started:
