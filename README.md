@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I am Sana Basalem 👋
 I am a Web Backend Developer
 - 🔭 I’m currently working on Odoo Framework
 - 🌱 I’m currently learning Web frontend technology
