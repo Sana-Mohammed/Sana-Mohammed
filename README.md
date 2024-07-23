@@ -3,6 +3,7 @@ I am a Web Backend Developer
 - 🔭 I’m currently working on Odoo Framework
 - 🌱 I’m currently learning Web frontend technology
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 <!--
 I am a Web Backend Developer
 Here are some ideas to get you started:
